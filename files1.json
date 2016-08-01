@@ -1,0 +1,60 @@
+[
+  {
+    "type": "folder",
+    "name": "client",
+    "path": "/client",
+    "children": [
+      {
+        "type": "folder",
+        "name": "node_modules",
+        "path": "/client/node_modules",
+        "children": [
+          {
+            "type": "folder",
+            "name": "express",
+            "path": "/client/node_modules/express",
+            "children": [
+              {
+                "type": "file",
+                "name": "index.js",
+                "path": "/client/node_modules/express/index.js"
+              },
+              {
+                "type": "file",
+                "name": "package.json",
+                "path": "/client/node_modules/express/package.json"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "react",
+            "path": "/client/node_modules/react",
+            "children": [
+            {
+                "type": "file",
+                "name": "react.js",
+                "path": "/client/node_modules/react/react.js"
+              },
+              {
+                "type": "file",
+                "name": "package.json",
+                "path": "/client/node_modules/react/package.json"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "file",
+        "name": "package.json",
+        "path": "/client/package.json"
+      },
+      {
+        "type": "file",
+        "name": "readme.md",
+        "path": "/client/readme.md"
+      }
+    ]
+  }
+]
